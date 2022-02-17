@@ -1,0 +1,18 @@
+/*
+    Theme Name: Twenty Twenty-one
+    template: twentytwentyone
+    Descritpion: Theme enfant de 2021
+    Author: Master M.
+    Version: 1.1.0
+*/
+
+
+
+body{
+    color:red !important;
+}
+
+.align_aticles{
+    display: flex;
+    flex-direction: row;
+}
